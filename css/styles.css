@@ -723,7 +723,7 @@ transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .check {
-    margin-bottom: 0;
+    margin-bottom: 24px;
 }
 
 .check-text {
@@ -781,7 +781,6 @@ transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     cursor: pointer;
     padding: 16px 32px;
-    margin-top: 24px;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
